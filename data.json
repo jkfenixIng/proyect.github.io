@@ -1,0 +1,39 @@
+{
+    "nombreGrupo": "Super escuadron de heroes",
+    "lugarOrigen": "Saltadilla",
+    "formado": 2000,
+    "secretBase": "Mega cueva",
+    "active": true,
+    "members": [
+      {
+        "name": "Super Ing",
+        "age": 59,
+        "secretIdentity": "Don Borolas",
+        "powers": [
+          "Resistencia a los virus",
+          "Turbo Hack",
+          "Cañon de basura"
+        ]
+      },
+      {
+        "name": "Lady Billetes",
+        "age": 19,
+        "secretIdentity": "Sonia Marin",
+        "powers": [
+          "Super Dolar",
+          "Resistencia al hambre",
+          "Volar como jet"
+        ]
+      },
+      {
+        "name": "Don Eterno",
+        "age": 1000000,
+        "secretIdentity": "Don Gerundio",
+        "powers": [
+          "Inmortal",
+          "Super tinto",
+          "Sueño rapido"
+        ]
+      }
+    ]
+  }
